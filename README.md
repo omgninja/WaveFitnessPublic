@@ -12,9 +12,13 @@ It isn't officially available on Google Play. If you wish, you can download the 
 | Login Page | Dashboard |
 ------------ | -------------
 ![](pic/1.png) | ![](pic/2.png)
+
 | Genre Selection | Music Player |
+------------ | -------------
 ![](pic/3.png) | ![](pic/4.png)
+
 | Quick Info | Running Statistic |
+------------ | -------------
 ![](pic/5.png) | ![](pic/6.png)
 
 # Reference
