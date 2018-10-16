@@ -9,7 +9,7 @@ It isn't officially available on Google Play. If you wish, you can download the 
 
 # Screenshots
 
-| Login Page | Homepage |
+| Login Page | Dashboard |
 ------------ | -------------
 ![](pic/1.png) | ![](pic/2.png)
 | Genre Selection | Music Player |
